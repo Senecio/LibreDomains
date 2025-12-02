@@ -1,17 +1,14 @@
 {
-  "description": "h5ii.ciao.su - 由配置生成器创建",
-  "subdomain": "h5ii",
-  "domain": "ciao.su",
   "owner": {
     "name": "lish",
     "github": "Senecio",
-    "email": "jpweiyi@163.com"
+    "email": "jpweiyi@gmail.com"
   },
   "records": [
     {
       "type": "CNAME",
-      "name": "ok",
-      "content": "623513.vhost477.cloudvhost.top",
+      "name": "hk",
+      "content": "libretv-a9l.pages.dev",
       "ttl": 3600,
       "proxied": false
     }
